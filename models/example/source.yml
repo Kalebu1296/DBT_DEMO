@@ -1,0 +1,7 @@
+sources:
+  - name: Kalebu
+    database: Rohini
+    schema: CHINNU
+    tables:
+      - name: CYCLE_RIDE_1  # enabled
+      - name: CYCLE_RIDE_2  # not enabled
