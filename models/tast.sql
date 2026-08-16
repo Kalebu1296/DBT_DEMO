@@ -1,4 +1,4 @@
 select *
-from {{ ref('{{ ref('my_second_dbt_model') }}') }}
+from {{ ref('Second_Model') }}
 
-linit 10
+limit 10

@@ -5,3 +5,4 @@ sources:
     tables:
       - name: CYCLE_RIDE_1  # enabled
       - name: CYCLE_RIDE_2  # not enabled
+      - name: WEATHER_DAILY
